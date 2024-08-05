@@ -1,0 +1,1 @@
+By designing an in-vehicle electronic control unit using hardware such as STM32F103C8, DC motor, keypad, us015 ultrasonic rangefinder module, MPU6050, buzzer, TFLCD, Hall sensor, etc., a manual gear up, real-time display of speed, ultrasonic obstacle avoidance warning, body tilting warning, and updating the firmware functions are realized to ensure driving safety.
